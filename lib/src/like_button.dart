@@ -3,6 +3,7 @@
 ///
 
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
 import 'package:like_button/src/painter/circle_painter.dart';
 import 'package:like_button/src/painter/bubbles_painter.dart';
 import 'package:like_button/src/utils/like_button_model.dart';
